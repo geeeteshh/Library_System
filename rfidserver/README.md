@@ -2,7 +2,7 @@ while dealing with this folder add this below code accordingly for receiving rfi
 
 You can refer this file code for handling the incoming data 
 
-
+```javascript
 import React, {useEffect, useState} from "react";
 import { useSearchParams } from "react-router-dom";
 
