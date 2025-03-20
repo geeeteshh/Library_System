@@ -1,3 +1,9 @@
+Required after opening this folder in terminal, do install:
+
+npm init -y
+npm install express cors
+
+
 while dealing with this folder add this below code accordingly for receiving rfid either by serial cable or http req.
 
 You can refer this file code for handling the incoming data 
